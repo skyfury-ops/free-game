@@ -23,7 +23,7 @@ Creature rig from Blender Studio (Singularity). Closes the non-Quaternius creatu
 
 - Live page: "This character requires at least Blender 5.0, and WILL NOT WORK on lower versions!"
 - Attribution to Blender Studio, same tooltip as Rain.
-- Sibling listing Critter Evolved is a different character URL. Do not inherit this card onto Evolved without a separate check.
+- Sibling listing Critter Evolved is [blender-studio-critter-evolved](blender-studio-critter-evolved.md).
 - Not a Mixamo-style FBX dump. Expect Blender-first, then export.
 
 ## Evidence
@@ -33,6 +33,8 @@ Creature rig from Blender Studio (Singularity). Closes the non-Quaternius creatu
 
 ## Related
 
+- [blender-studio-critter-evolved](blender-studio-critter-evolved.md)
+- [blender-studio-space-creatures](blender-studio-space-creatures.md)
 - [blender-studio-rain](blender-studio-rain.md)
 - [quaternius-ultimate-monsters](quaternius-ultimate-monsters.md)
 - [blender-human-base-meshes](blender-human-base-meshes.md)
